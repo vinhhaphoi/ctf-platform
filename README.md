@@ -92,7 +92,7 @@ docker-compose down -v
 
 Sau khi setup hoàn tất:
 
-- **CTF Platform:** http://localhost:5000
+- **CTF Platform:** http://localhost:5050
 - **Vulnerable Web App:** http://localhost:8080
 - **MySQL Database:** `localhost:3306`
 
