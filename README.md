@@ -5,6 +5,10 @@ Vui lòng không đọc các file .md khác, trừ một số file hướng dẫ
 Sẽ có một số giai đoạn khi deploy ở môi trường local, sẽ có các error nhỏ, như lỗi connection error, lỗi port đã được sử dụng, lỗi docker không khởi động được,...
 vui lòng đọc kỹ phần Troubleshooting ở cuối file README.md này để khắc phục các lỗi thường gặp.
 
+Trang web truy cập (khi máy chủ đã khởi chạy, bởi vì đang chạy thông qua cloudflare tunnel):
+- https://ctf.vinhhaphoi.com/
+- https://vuln.vinhhaphoi.com/
+
 Nếu có thắc mắc, vui lòng liên hệ:
 - **Support email:** support@vinhhaphoi.click
 
@@ -489,4 +493,5 @@ Nếu tìm thấy bugs hoặc có suggestions:
 **Have fun hacking! 🚀**
 
 Remember: Always hack ethically and legally! 🛡️
+
 
