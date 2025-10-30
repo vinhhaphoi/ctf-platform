@@ -32,12 +32,15 @@ Dự án này bao gồm:
 
 ## 🛠️ Yêu Cầu Hệ Thống
 
-### Windows (Khuyến nghị cho dự án này):
-- Windows 10/11/macOS Sequoia trở lên
+### Windows (not recommended):
+- Windows 10/11
 - Docker Desktop for Windows (với WSL2)
-- Python 3.7 trở lên
 - 4GB RAM trở lên
 - 10GB ổ cứng trống
+
+### macOS (highly recommended):
+- macOS Sequoia trở lên
+- Docker Desktop for Mac
 
 ### Công cụ Pentesting (Tùy chọn):
 - nmap
