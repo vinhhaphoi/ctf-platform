@@ -265,6 +265,11 @@ def generate_payload(context):
 
 ## 🔧 Quản Lý Containers
 
+### Start cloudflare tunnel:
+```bash
+cloudflared tunnel run ctf-platform-tunnel
+```
+
 ### Xem logs:
 ```bash
 docker-compose logs -f
