@@ -423,7 +423,7 @@ Solution:
         MYSQL_USER: ${MYSQL_USER}
         MYSQL_PASSWORD: ${MYSQL_PASSWORD}
         MYSQL_TCP_PORT: 3308 # uncommend đoạn này nhằm sử dụng port 3308 thay vì 3306
-        , có thể một vài máy bị xung đột port 3306
+        có thể một vài máy bị xung đột port 3306
 ```
 
 Solution:
