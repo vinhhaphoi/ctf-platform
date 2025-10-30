@@ -6,7 +6,7 @@ Sẽ có một số giai đoạn khi deploy ở môi trường local, sẽ có c
 vui lòng đọc kỹ phần Troubleshooting ở cuối file README.md này để khắc phục các lỗi thường gặp.
 
 Nếu có thắc mắc, vui lòng liên hệ:
-Support Email: support@vinhhaphoi.click
+- **Support email:** support@vinhhaphoi.click
 
 Trân trọng!
 
