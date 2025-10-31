@@ -11,6 +11,7 @@ Trang web truy cập (khi máy chủ đã khởi chạy, bởi vì đang chạy 
 
 Nếu có thắc mắc, vui lòng liên hệ:
 - **Support email:** support@vinhhaphoi.click
+- Hoặc bạn có thể tạo issue trên GitHub: https://github.com/vinhhaphoi/ctf-platform/issues
 
 Trân trọng!
 
