@@ -477,11 +477,6 @@ Access CTF Platform và check scoreboard
 - [MySQL Security Best Practices](https://dev.mysql.com/doc/refman/8.0/en/security.html)
 - [sqlmap Documentation](https://github.com/sqlmapproject/sqlmap/wiki)
 
-## 👥 Credits
-
-Dự án được phát triển cho môn Database Security
-Educational Purpose Only
-
 ## 📄 License
 
 MIT License - For Educational Use Only

@@ -446,7 +446,7 @@ setup.bat
 ```
 
 ### To Access:
-- http://localhost:5000 - CTF Platform
+- http://localhost:5050 - CTF Platform
 - http://localhost:8080 - Vulnerable Web
 - localhost:3306 - MySQL
 
