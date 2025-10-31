@@ -1,6 +1,6 @@
 
 **Lưu ý quan trọng:** đây là file README.md duy nhất, hoàn chỉnh nhất để hướng dẫn bạn, và chắc chắn sẽ chạy được dự án ở môi trường macOS. 
-Vui lòng không đọc các file .md khác, trừ một số file hướng dẫn làm thế nào để thực thi/ làm challenge, nếu không sẽ bị mù mắt!
+Vui lòng không đọc các file .md khác, trừ một số file hướng dẫn làm thế nào để thực thi/ làm challenge, nếu không **sẽ bị mù mắt!**
 
 Sẽ có một số giai đoạn khi deploy ở môi trường local, sẽ có các error nhỏ, như lỗi connection error, lỗi port đã được sử dụng, lỗi docker không khởi động được,...
 vui lòng đọc kỹ phần Troubleshooting ở cuối file README.md này để khắc phục các lỗi thường gặp.
