@@ -59,7 +59,7 @@ Dự án này bao gồm:
 
 ```bash
 cd C:\Users\noter
-git clone [CTF - Platform by Vinhhaphoi](https://github.com/vinhhaphoi/ctf-platform)
+git clone https://github.com/vinhhaphoi/ctf-platform
 cd database-security-ctf
 ```
 
